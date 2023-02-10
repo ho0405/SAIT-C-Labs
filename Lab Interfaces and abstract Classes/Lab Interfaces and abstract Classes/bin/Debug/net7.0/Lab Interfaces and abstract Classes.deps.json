@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab Interfaces and abstract Classes/1.0.0": {
+        "runtime": {
+          "Lab Interfaces and abstract Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab Interfaces and abstract Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
