@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\bin\Debug\LAB5.exe.config
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\bin\Debug\LAB5.exe
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\bin\Debug\LAB5.pdb
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\obj\Debug\LAB5.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\obj\Debug\LAB5.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\obj\Debug\LAB5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\obj\Debug\LAB5.exe
+\\Mac\Home\Desktop\SAIT\2023 Winter\Oriental Programming\LAB5\LAB5\obj\Debug\LAB5.pdb
